@@ -4,10 +4,12 @@
 
 body {
   padding: 60px;
+  background-color: #282c34;
+  color: white;
 }
 
 input {
-  color: blue;
+  color: black;
   font-size: 1.2rem;
   width: 100%;
 }
